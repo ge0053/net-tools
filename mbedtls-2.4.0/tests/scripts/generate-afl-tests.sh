@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 # This script splits the data test files containing the test cases into
 # individual files (one test case per file) suitable for use with afl

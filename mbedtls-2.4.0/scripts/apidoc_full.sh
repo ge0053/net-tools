@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 # Generate doxygen documentation with a full config.h (this ensures that every
 # available flag is documented, and avoids warnings about documentation

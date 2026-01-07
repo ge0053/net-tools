@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 # This file is part of mbed TLS (https://tls.mbed.org)
 #
