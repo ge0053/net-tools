@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 
 # Check for malloc calls not shortly followed by initialisation.
 #

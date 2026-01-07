@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 #
 # FILE:		sha2test.pl
 # AUTHOR:	Aaron D. Gifford - http://www.aarongifford.com/

@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 # Measure heap usage (and performance) of ECC operations with various values of
 # the relevant tunable compile-time parameters.

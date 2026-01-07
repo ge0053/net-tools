@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 
 # test that all configs with only a single key exchange enabled build
 #

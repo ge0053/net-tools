@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 # Make sure the doxygen documentation builds without warnings
 

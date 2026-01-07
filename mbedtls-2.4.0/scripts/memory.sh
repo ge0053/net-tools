@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 # Measure memory usage of a minimal client using a small configuration
 # Currently hardwired to ccm-psk and suite-b, may be expanded later

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # test coap implementation for the ETSI CoAP Plugtest in March 2012
 # with test cases described in Plugtests Guide First Draft V0.0.16
